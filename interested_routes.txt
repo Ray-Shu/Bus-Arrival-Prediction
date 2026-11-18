@@ -1,0 +1,7 @@
+007,1,007,"West Edmonton Mall - Downtown",,3,,005087,FFFFFF
+
+054,1,054,"West Edmonton Mall - West Clareview",,3,,005087,FFFFFF
+
+108,1,108,"Belvedere - East Clareview",,3,,005087,FFFFFF
+
+113,1,113,"West Clareview - Northgate",,3,,005087,FFFFFF
