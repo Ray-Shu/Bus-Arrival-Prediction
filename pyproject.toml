@@ -6,5 +6,11 @@ dependencies = [
     "requests",
     "gtfs-realtime-bindings",
     "polars",
-    "ipykernel"
+    "ipykernel",
+    "python-dotenv",
+    "pandas",
+    "sqlalchemy",
+    "psycopg-binary",
+    "psycopg",
+    "pyarrow"
 ]
