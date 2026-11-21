@@ -1,0 +1,5 @@
+Commands
+docker compose up -d	Start the database
+docker compose stop	Stop it (data is kept)
+docker compose down	Remove the container (data is kept in the volume)
+docker compose down -v	Remove the container and data, so sql/*.sql runs again on next start
